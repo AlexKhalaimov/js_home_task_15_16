@@ -29,6 +29,7 @@
     background-image: url(../img/search-icon.svg) ;
     background-size: 34px 34px;
     background-repeat: no-repeat;
+    cursor: pointer;
 }
 #searchForm{
     position: relative;
